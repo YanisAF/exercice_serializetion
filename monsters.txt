@@ -1,0 +1,10 @@
+Gobelin, 30, 50
+Orc, 50, 80
+Dragon, 90, 150
+Troll, 70, 120
+Squelette, 40, 60
+Sorcière, 60, 70
+Loup-garou, 80, 90
+Vampire, 85, 100
+Géant, 100, 200
+Serpent géant, 75, 95
